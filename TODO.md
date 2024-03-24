@@ -5,7 +5,7 @@
 - [x] pnpm workspace
 - [x] monorepo Turbo
 - [x] Nestjs
-- [ ] fixing turbo / pnpm scripts
+- [x] fixing turbo / pnpm scripts
 - [ ] logging with Pino
 - [ ] Swagger for API documentation
 - [ ] testing with Jest
